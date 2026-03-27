@@ -1,0 +1,5 @@
+{
+  "name": "MochixSub",
+  "description": "Convierte audio y video en subtítulos automáticamente con un toque minimalista.",
+  "requestFramePermissions": []
+}
